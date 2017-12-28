@@ -134,7 +134,7 @@ body, html {
  header.masthead {
      padding-top: 10rem;
      padding-bottom: calc(10rem - 56px);
-     background-image: url('creativesample/img/multitech.jpg');
+     background-image: url("../img/multitech.jpg");
      background-position: center center;
      -webkit-background-size: cover;
      -moz-background-size: cover;
