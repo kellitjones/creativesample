@@ -72,11 +72,11 @@ body, html {
  #mainNav .navbar-brand {
      font-weight: 700;
      text-transform: uppercase;
-     color: #F05F40;
+     color: rgba(255, 255, 255, 0.7);
      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
  #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-     color: #f05f40;
+     color: #fff;
 }
  #mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
      font-size: .9rem;
@@ -85,7 +85,7 @@ body, html {
      color: #212529;
 }
  #mainNav .navbar-nav > li.nav-item > a.nav-link:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-     color: #F05F40;
+     color: #fff;
 }
  #mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
      color: #F05F40 !important;
@@ -100,7 +100,7 @@ body, html {
          background-color: transparent;
     }
      #mainNav .navbar-brand {
-         color: #F05F40;
+         color: rgba(255, 255, 255, 0.7);
     }
      #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
          color: #F05F40;
