@@ -135,7 +135,6 @@ body, html {
      padding-top: 10rem;
      padding-bottom: calc(10rem - 56px);
      background-image: url("creativesample/img/header.jpg");
-     opacity: 0.5;
      background-position: center center;
      -webkit-background-size: cover;
      -moz-background-size: cover;
