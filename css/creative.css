@@ -72,7 +72,7 @@ body, html {
  #mainNav .navbar-brand {
      font-weight: 700;
      text-transform: uppercase;
-     color: #F05F40;
+     color: black;
      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
  #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -82,7 +82,7 @@ body, html {
      font-size: .9rem;
      font-weight: 700;
      text-transform: uppercase;
-     color: #212529;
+     color: black;
 }
  #mainNav .navbar-nav > li.nav-item > a.nav-link:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
      color: #F05F40;
