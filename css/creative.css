@@ -134,7 +134,7 @@ body, html {
  header.masthead {
      padding-top: 10rem;
      padding-bottom: calc(10rem - 56px);
-     background-image: url("creativesample/img/header.jpg");
+     background-image: url(http://res.cloudinary.com/dnaavxlbe/image/upload/e_art:red_rock/v1514760574/people-2557396_1920_dkpfhe.jpg);
      opacity: 0.8;
      background-position: center center;
      -webkit-background-size: cover;
