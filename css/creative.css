@@ -76,7 +76,7 @@ body, html {
      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
  #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-     color: #f05f40;
+      color: #F05F40;
 }
  #mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
      font-size: .9rem;
@@ -100,20 +100,20 @@ body, html {
          background-color: transparent;
     }
      #mainNav .navbar-brand {
-         color: #F05F40;
+         color: black;
     }
      #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-         color: #F05F40;
+         color: #FFF;
     }
      #mainNav .navbar-nav > li.nav-item > a.nav-link {
          padding: 0.5rem 1rem;
     }
      #mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-         color: #F05F40;
+         color: black;
     }
      #mainNav .navbar-nav > li.nav-item > a.nav-link:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-         color: #F05F40;
-    }
+         color: #FFF;
+          
      #mainNav.navbar-shrink {
          border-bottom: 1px solid rgba(33, 37, 41, 0.1);
          background-color: #fff;
@@ -135,6 +135,7 @@ body, html {
      padding-top: 10rem;
      padding-bottom: calc(10rem - 56px);
      background-image: url("creativesample/img/header.jpg");
+     opacity: 0.8;
      background-position: center center;
      -webkit-background-size: cover;
      -moz-background-size: cover;
