@@ -137,6 +137,7 @@ body, html {
  header.masthead {
      padding-top: 10rem;
      padding-bottom: calc(10rem - 56px);
+
      background-image: url(http://res.cloudinary.com/dnaavxlbe/image/upload/v1514760574/people-2557396_1920_dkpfhe.jpg);
      filter: brightness(80%);
      background-position: center center;
